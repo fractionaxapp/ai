@@ -1,3 +1,6 @@
 [submodule "agents"]
 	path = agents
 	url = https://github.com/fractionaxapp/agents.git
+[submodule "inference"]
+	path = inference
+	url = https://github.com/fractionaxapp/inference.git
